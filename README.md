@@ -1,6 +1,6 @@
-# CLASP: Contrastive Language Alignment for Sequence Proteins
+# CRISP: Contrastive Representative Isomorphism of Sequences and Proteins
 
-CLASP aims to align protein sequences and natural-language annotations in a shared embedding space using a contrastive learning objective. It is inspired by multimodal techniques such as [CLiP](https://openai.com/index/clip/) and [ProteinCLIP](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1) but specializes in protein–text alignment for enhanced functional understanding.
+CRISP aims to align protein sequences and natural-language annotations in a shared embedding space using a contrastive learning objective. It is inspired by multimodal techniques such as [CLiP](https://openai.com/index/clip/) and [ProteinCLIP](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1) but specializes in protein–text alignment for enhanced functional understanding.
 
 ## References
 - [ProteinCLIP](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1) (Wu, K. E., Chang, H., & Zou, J., 2024)

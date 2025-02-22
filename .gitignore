@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment or build
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+# OS-specific and IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Data
+# data/uniprot/
